@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello Kuwaitnet Majd KAssem"
+title: "Hello Kuwaitnet Majd KAssem 2002 This is Demo to my Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
